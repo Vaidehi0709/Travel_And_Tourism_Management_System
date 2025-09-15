@@ -221,73 +221,90 @@ Screens Overview:
 4.2 SCREENSHOTS OF THE APPLICATION
 I.	Signup Page
 This page will help the user to create the account for user, using the username, name, password, security question and answer to that question.
+
  <img width="788" height="317" alt="image" src="https://github.com/user-attachments/assets/d6f5099b-7bf6-4008-81ef-df66da8cc040" />
 
 
 II.	Login Page
 By entering the username and password we can login to our account .
+
 <img width="788" height="352" alt="image" src="https://github.com/user-attachments/assets/f1a1266a-2698-4725-a806-e2663ad9fa79" />
 
  
 
 III.	Forget Password
 If the user forgets password , then in the Forget Password page if we enter the username and click on ‘Search’ button we can search for the respective name and the security question.
+
 <img width="769" height="345" alt="image" src="https://github.com/user-attachments/assets/e26f49d0-4e7a-41aa-b055-3e2317011350" />
 
  
 If the user enters the correct answer to the security question, then by clicking on ‘Retrieve’ button we can retrieve the password for our account.
+
 <img width="756" height="341" alt="image" src="https://github.com/user-attachments/assets/b0eb863c-c29c-4503-8b4b-736fee0d22e4" />
 
  
 IV.	Loading Page
+
 <img width="795" height="492" alt="image" src="https://github.com/user-attachments/assets/12d6a98e-2f93-4098-b735-d00c91feaa71" />
 
 
 V.	Dashboard
+
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a3894807-49d8-498b-b4a9-8a3d96e920c4" />
 
  
 VI.	Add Personal Details Page
+
 <img width="764" height="430" alt="image" src="https://github.com/user-attachments/assets/28fedd26-2fc3-494c-9584-d2bb2e216894" />
 
 
 VII.	Update Personal Details Page
+
 <img width="756" height="425" alt="image" src="https://github.com/user-attachments/assets/a30cbbbc-b80f-47c7-9530-506ca68f4825" />
 
  
 VIII.	View Personal Details
+
 <img width="764" height="373" alt="image" src="https://github.com/user-attachments/assets/67a42e42-3d43-4fb2-8358-05e63a6d9cd0" />
 
  
 IX.	Delete personal Details Page 
+
 <img width="778" height="370" alt="image" src="https://github.com/user-attachments/assets/2f870aa1-bc32-4659-862c-67da75e21706" />
 
  
 X.	View Packages Page
+
 <img width="727" height="409" alt="image" src="https://github.com/user-attachments/assets/66cf50b4-53f8-4443-9e65-57297a1d40e6" />
 
  
 XI.	Book Packages Page
+
 <img width="713" height="401" alt="image" src="https://github.com/user-attachments/assets/b066a382-cc71-44f8-94e7-eaa660ac8cee" />
 
  
 XII.	View Booked Packages Page
+
 <img width="677" height="381" alt="image" src="https://github.com/user-attachments/assets/2fd34fc8-95e8-4e25-89a8-f25862bb2084" />
 
  
 XIII.	View Hotels Page
+
 <img width="667" height="375" alt="image" src="https://github.com/user-attachments/assets/1ff01bff-1c6a-436b-bf55-ec4726b93ce9" />
 
  
 XIV.	Book Hotels Page
+
 <img width="673" height="378" alt="image" src="https://github.com/user-attachments/assets/65298ccf-da75-409e-98d7-3b7c53874754" />
 
  
 XV.	View Booked Hotels Page
+
 <img width="688" height="387" alt="image" src="https://github.com/user-attachments/assets/54c89315-a98c-46d3-bd43-066e5b5c0cfa" />
 
  
 XVI.	Payments Page
+
 <img width="731" height="411" alt="image" src="https://github.com/user-attachments/assets/fcfc1a20-49f6-4daf-a4e8-b985f12906d7" />
 
  
