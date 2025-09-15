@@ -287,6 +287,7 @@ XII.	View Booked Packages Page
 
 <img width="677" height="381" alt="image" src="https://github.com/user-attachments/assets/2fd34fc8-95e8-4e25-89a8-f25862bb2084" />
 
+
  
 XIII.	View Hotels Page
 
@@ -297,7 +298,8 @@ XIV.	Book Hotels Page
 
 <img width="673" height="378" alt="image" src="https://github.com/user-attachments/assets/65298ccf-da75-409e-98d7-3b7c53874754" />
 
- 
+
+
 XV.	View Booked Hotels Page
 
 <img width="688" height="387" alt="image" src="https://github.com/user-attachments/assets/54c89315-a98c-46d3-bd43-066e5b5c0cfa" />
