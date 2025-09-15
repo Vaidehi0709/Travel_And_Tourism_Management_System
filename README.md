@@ -26,6 +26,7 @@ Icons & Images: For interactive user interface
 
 
 ---
+<b>A brief Overview and details about the project</b>
 
 
 1 .ABSTRACT
@@ -220,269 +221,80 @@ Screens Overview:
 4.2 SCREENSHOTS OF THE APPLICATION
 I.	Signup Page
 This page will help the user to create the account for user, using the username, name, password, security question and answer to that question.
- 
+ <img width="788" height="317" alt="image" src="https://github.com/user-attachments/assets/d6f5099b-7bf6-4008-81ef-df66da8cc040" />
+
 
 II.	Login Page
 By entering the username and password we can login to our account .
+<img width="788" height="352" alt="image" src="https://github.com/user-attachments/assets/f1a1266a-2698-4725-a806-e2663ad9fa79" />
+
  
 
 III.	Forget Password
 If the user forgets password , then in the Forget Password page if we enter the username and click on ‘Search’ button we can search for the respective name and the security question.
+<img width="769" height="345" alt="image" src="https://github.com/user-attachments/assets/e26f49d0-4e7a-41aa-b055-3e2317011350" />
+
  
 If the user enters the correct answer to the security question, then by clicking on ‘Retrieve’ button we can retrieve the password for our account.
+<img width="756" height="341" alt="image" src="https://github.com/user-attachments/assets/b0eb863c-c29c-4503-8b4b-736fee0d22e4" />
+
  
 IV.	Loading Page
- 
+<img width="795" height="492" alt="image" src="https://github.com/user-attachments/assets/12d6a98e-2f93-4098-b735-d00c91feaa71" />
+
 
 V.	Dashboard
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a3894807-49d8-498b-b4a9-8a3d96e920c4" />
+
  
-
-
-
-
 VI.	Add Personal Details Page
- 
+<img width="764" height="430" alt="image" src="https://github.com/user-attachments/assets/28fedd26-2fc3-494c-9584-d2bb2e216894" />
+
+
 VII.	Update Personal Details Page
+<img width="756" height="425" alt="image" src="https://github.com/user-attachments/assets/a30cbbbc-b80f-47c7-9530-506ca68f4825" />
+
  
 VIII.	View Personal Details
+<img width="764" height="373" alt="image" src="https://github.com/user-attachments/assets/67a42e42-3d43-4fb2-8358-05e63a6d9cd0" />
+
  
 IX.	Delete personal Details Page 
+<img width="778" height="370" alt="image" src="https://github.com/user-attachments/assets/2f870aa1-bc32-4659-862c-67da75e21706" />
+
  
 X.	View Packages Page
+<img width="727" height="409" alt="image" src="https://github.com/user-attachments/assets/66cf50b4-53f8-4443-9e65-57297a1d40e6" />
+
  
 XI.	Book Packages Page
+<img width="713" height="401" alt="image" src="https://github.com/user-attachments/assets/b066a382-cc71-44f8-94e7-eaa660ac8cee" />
+
  
 XII.	View Booked Packages Page
+<img width="677" height="381" alt="image" src="https://github.com/user-attachments/assets/2fd34fc8-95e8-4e25-89a8-f25862bb2084" />
+
  
 XIII.	View Hotels Page
+<img width="667" height="375" alt="image" src="https://github.com/user-attachments/assets/1ff01bff-1c6a-436b-bf55-ec4726b93ce9" />
+
  
 XIV.	Book Hotels Page
+<img width="673" height="378" alt="image" src="https://github.com/user-attachments/assets/65298ccf-da75-409e-98d7-3b7c53874754" />
+
  
 XV.	View Booked Hotels Page
+<img width="688" height="387" alt="image" src="https://github.com/user-attachments/assets/54c89315-a98c-46d3-bd43-066e5b5c0cfa" />
+
  
 XVI.	Payments Page
- 
-
-
-
-
-
-
-
-
-4.3	DESCRIPTION OF DATABASE TABLES:
-
-Table 4.1.1: Account:
-
- 
-
-Table 4.1.2 : Customer:
-
- 
-
-Table 4.1.3: Book Package:
+<img width="731" height="411" alt="image" src="https://github.com/user-attachments/assets/fcfc1a20-49f6-4daf-a4e8-b985f12906d7" />
 
  
 
 
 
-	Table 4.1.4: Book Hotel:
-	 
-
-	Table 4.1.5: Hotel:
-	 
 
 
 
 
-
-
-
-
-
-
-
-
-
-5. TESTING
-
-Test 
-Case No.	Test Case	Input Data	Steps to execute the test case	Excepted Output	Actual Output	Pass/Fail
-1.	Login Screen	Wrong
-username
-or
-password	After
-entering the
-data click
-on the login
-button	A proper message
-indicating the
-error should
-appear and the
-user should be
-redirected to
-login screen.	A  message was
-Displayed saying Invalid
-Username or
-password	Pass
-2.	Insertion 
-	If any
-field was
-not
-entered.	After
-entering the
-data click
-on the create
-button	A proper
-message
-indicating the
-error should
-appear and the
-user should be
-redirected to
-customer screen.	A message
-was
-displayed
-saying
-Enter all
-the details
-properly	Pass
-3. 	Deletion	If any
-field was
-not
-entered.	After
-entering the
-data click
-on the delete
-button	A proper
-message
-indicating the
-error should
-appear and the
-user should be
-redirected to
-customer screen.	A message
-was
-displayed
-saying
-Enter all
-the details
-properly	Pass
-4.	Updating	If any
-field was
-not
-entered.	After
-entering the
-data click
-on the update
-button	A proper
-message
-indicating the
-error should
-appear and the
-user should be
-redirected to
-update customer
-screen.	A message
-was
-displayed
-saying
-Enter all
-the details
-properly	Pass
-
-6. ADVANTAGES AND DISADVANTAGES
-
-6.1	ADVANTAGES :
-
-1.	Centralized Management:
-All travel-related data such as packages, hotel bookings, and customer records are stored and managed centrally, reducing redundancy and enhancing consistency.
-
-2.	Time Efficiency:
-Automates routine tasks such as booking confirmation, package display, and data entry significantly reducing manual workload and improving turnaround time.
-
-3.	User-Friendly Interface:
-The graphical user interface is intuitive and easy to navigate, ensuring seamless interaction for both administrators and customers.
-
-4.	Secure Access Control:
-User authentication mechanisms help protect sensitive data by restricting access only to authorized users.
-
-5.	Scalability :
-The system is designed in modules, allowing future integration of features like real-time payments, customer feedback, and mobile compatibility.
-  
-6.	Improved Customer Experience :
-Real-time booking updates, package details, and availability of hotels provide customers with transparency and convenience during trip planning.
-
-6.2	DISADVANTAGES :
-
-1.	 Requires Internet and System Access:
-The system operates on a client-server model and requires a computer and internet connection for full functionality, which might not be feasible in all areas.
-
-2.	Initial Setup and Maintenance:
-Implementing and maintaining the system requires basic technical knowledge and time investment, especially for database management.
-
-
-7. APPLICATIONS :
-•	Travel Agencies and Tour Operators:
-Perfect for small- to medium-scale travel businesses that manage customized packages, hotel tie-ups, and bookings.
-
-•	Corporate Travel Desks:
-Organizations that regularly arrange official tours or training events can use this system to streamline employee travel logistics.
-
-
-•	Educational Institutions:
-Colleges and schools arranging tours, excursions, or industrial visits can benefit from centralized booking and tracking.
-
-•	Hotel Aggregators and Booking Services:
-Businesses managing multiple hotels and clients can use the system to display availability, package offers, and generate customer records.
-
-
-•	Freelance Travel Consultants:
-Independent travel planners can use the system to organize client data, packages, and itineraries professionally.
-
-
-
-
-
-
-
-
-
-
-
-
-8.  CONCLUSION
-
-The Travel and Tourism Management System is a comprehensive desktop-based application developed using Java and MySQL, designed to automate and reorganize various processes related to travel management. It addresses the common challenges faced by travel agencies and customers by integrating essential functionalities such as user registration, package management, hotel bookings, customer bookings, and basic payment simulation into a single platform.
-By digitalizing the traditional manual workflow, the system ensures efficiency, accuracy, and security in managing data and services. It enhances the customer experience by allowing access to tour package details and booking status while providing administrators with centralized control over operations. The flexible structure of the system makes it highly scalable and adaptable to future enhancements such as online payments, mobile integration, and analytics.
-In conclusion, the system not only simplifies travel and tour operations but also lays a solid foundation for the digital transformation of small to mid-sized travel agencies. Its deployment can significantly reduce manual errors, increase operational speed, and improve client satisfaction—making it a valuable tool in the modern tourism industry.
-
-
-
-
-
-
-
-
-
-
-
-
-
-9. REFERENCES:
-
-[1] A. Silberschatz, H. F. Korth, and S. Sudarshan, Database System Concepts, 7th ed. New York, NY, USA: McGraw-Hill Education, 2020.
-[2] K. Sierra and B. Bates, Head First Java, 2nd ed. Sebastopol, CA, USA: O’Reilly Media, 2005.
-[3] M. Blaha and J. Rumbaugh, Object-Oriented Modeling and Design with UML, 2nd ed. Upper Saddle River, NJ, USA: Pearson Education, 2004.
-[4] R. S. Pressman, Software Engineering: A Practitioner’s Approach, 8th ed. New York, NY, USA: McGraw-Hill Education, 2014.
-[5] S. R. Patil and M. R. Wankhade, “A Review on Tourism Management Information System (TMIS) and its Applications,” Int. J. Comput. Sci. Mobile Comput., vol. 7, no. 4, pp. 1–6, Apr. 2018.
-[6] M. Rátz and J. Michalkó, “Information Technology in Tourism Industry: An Empirical Study from the Czech Republic,” Tourism Management Perspectives, Elsevier, vol. 6, pp. 1–10, Oct. 2013.
-[7] P. Sharma and A. Verma, “Automation in Travel and Tourism Management using Software Solutions,” Int. J. Innov. Res. Comput. Commun. Eng., vol. 7, no. 6, pp. 1234–1240, Jun. 2019.
-[8] Oracle, “Java SE Documentation,” Oracle, 2024. [Online]. Available: https://docs.oracle.com/javase/
-[9] Oracle, “MySQL 8.0 Reference Manual,” Oracle, 2024. [Online]. Available: https://dev.mysql.com/doc/
-[10] W3Schools, “SQL Tutorial,” 2024. [Online]. Available: https://www.w3schools.com/sql/
-[11] GeeksforGeeks, “Java Programming,” 2024. [Online]. Available: https://www.geeksforgeeks.org/java/
-[12] TutorialsPoint, “Software Engineering Tutorial,” 2024. [Online]. Available: https://www.tutorialspoint.com/software_engineering/
-[13] Stack Overflow, “Java Tag,” 2024. [Online]. Available: https://stackoverflow.com/questions/tagged/java
-[14] Diagrams.net, “Draw.io – Online Diagram Software,” 2024. [Online]. Available: https://www.diagrams.net/
-[15] GitHub, “Explore Java Projects,” 2024. [Online]. Available: https://github.com/
